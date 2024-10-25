@@ -4,3 +4,6 @@ echo \*
 
 echo "$PATH"
 echo '$PATH'
+
+
+echo 'Current Date: $(date  +'%Y/%m/%d')'
